@@ -234,6 +234,7 @@ td{
     animation-iteration-count: infinite;
 }
 
+/* Uno de animacion*/
 @keyframes an2{
     70% {
         font-size: 150%;
